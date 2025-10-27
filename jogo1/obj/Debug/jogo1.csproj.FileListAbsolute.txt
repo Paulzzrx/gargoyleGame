@@ -1,0 +1,28 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\bin\Debug\jogo1.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\bin\Debug\jogo1.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.pdb
+C:\Users\aluno\Downloads\jogo1\jogo1\obj\Debug\jogo1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\jogo1\jogo1\obj\Debug\jogo1.MainForm.resources
+C:\Users\aluno\Downloads\jogo1\jogo1\obj\Debug\jogo1.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\jogo1\jogo1\obj\Debug\jogo1.exe
+C:\Users\aluno\Downloads\jogo1\jogo1\obj\Debug\jogo1.pdb
+C:\Users\aluno\Downloads\jogo1\jogo1\bin\Debug\jogo1.exe
+C:\Users\aluno\Downloads\jogo1\jogo1\bin\Debug\jogo1.pdb
+C:\Users\Alunos\Downloads\jogo1\jogo1\obj\Debug\jogo1.csprojResolveAssemblyReference.cache
+C:\Users\Alunos\Downloads\jogo1\jogo1\obj\Debug\jogo1.MainForm.resources
+C:\Users\Alunos\Downloads\jogo1\jogo1\obj\Debug\jogo1.csproj.GenerateResource.Cache
+C:\Users\Alunos\Downloads\jogo1\jogo1\obj\Debug\jogo1.exe
+C:\Users\Alunos\Downloads\jogo1\jogo1\obj\Debug\jogo1.pdb
+C:\Users\Alunos\Downloads\jogo1\jogo1\bin\Debug\jogo1.exe
+C:\Users\Alunos\Downloads\jogo1\jogo1\bin\Debug\jogo1.pdb
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\bin\Debug\jogo1.exe
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\bin\Debug\jogo1.pdb
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.csprojResolveAssemblyReference.cache
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.MainForm.resources
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.csproj.GenerateResource.Cache
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.exe
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\jogo1\jogo1\obj\Debug\jogo1.pdb
