@@ -9,7 +9,7 @@ battle between a hero and an enemy.
 
 ------------------------------------------------------------------------
 
-### 🕹️ Features
+### Features
 
 -   Player and enemy characters with distinct stats and behaviors
 -   Projectile mechanics and basic collision detection
@@ -18,7 +18,7 @@ battle between a hero and an enemy.
 
 ------------------------------------------------------------------------
 
-### 🧠 Learning Goals
+### Learning Goals
 
 This project demonstrates how OOP principles can be applied in game
 development using C# and Windows Forms, emphasizing clean structure and
